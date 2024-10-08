@@ -7,7 +7,7 @@ I'm a passionate Software Developer and currently pursuing my **Master of Scienc
 ### 🔧 **Technical Skills**:
 
 - **Languages & Frameworks**: Java, Python, C++, JavaScript, React, Node.js, Django
-- **Database & Cloud**: MySQL, MongoDB, ElasticSearch, AWS, TensorFlow, Keras
+- **Database & Cloud**: MySQL, MongoDB, ElasticSearch, AWS, TensorFlow, Kubernetes
 
 ---
 
@@ -23,8 +23,8 @@ I'm a passionate Software Developer and currently pursuing my **Master of Scienc
 ---
 
 ### 🌱 **Currently Learning**:
-- Advanced machine learning techniques
-- Full-stack development with React and Django
+- Distributed Systems
+- Cloud Computing
 
 ---
 
@@ -35,5 +35,4 @@ I'm a passionate Software Developer and currently pursuing my **Master of Scienc
 
 ---
 
-### ⚡ **Fun Fact**:
-I enjoy building things that make life easier and more efficient! Whether it's a chatbot to help students or a full-stack app with cutting-edge tech, I love turning ideas into reality.
+
