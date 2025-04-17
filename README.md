@@ -34,7 +34,7 @@ I'm a passionate Software Developer and currently pursuing my **Master of Scienc
 
 ### 📫 **Let's Connect**:
 - **Portfolio**: [https://mikhaelthomas.netlify.app/](https://mikhaelthomas.netlify.app/)
-- **Email**: [mikth@seas.upenn.edu](mailto:mikth@seas.upenn.edu)
+- **Email**: [mikhaelzachariast@gmail.com](mailto:mikhaelzachariast@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mikhaelthomas](https://www.linkedin.com/in/mikhaelthomas)
 - **GitHub**: [github.com/mikth3372](https://github.com/mikth3372)
 
